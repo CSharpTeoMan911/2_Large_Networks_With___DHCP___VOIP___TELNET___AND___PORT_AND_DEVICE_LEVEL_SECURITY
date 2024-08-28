@@ -1,10 +1,39 @@
-# Cisco Packet Tracer 
+# Cisco Packet Tracer
 ______________________________
 
+![Eva_Capture1583557455](https://github.com/user-attachments/assets/218f519b-4972-4098-be57-5692a81ce01a)
 
-## FEATURES:  DHCP SERVERS, Voice Over IP, Telnet, port level security, and device level security
+![Eva_Capture648911341](https://github.com/user-attachments/assets/3ab448f2-e1de-4cb2-bef6-797544c8f4c5)
+
+<br/>
+<br/>
+<br/>
+
+## Features
+
+### DHCP SERVERS
+
+![Eva_Capture1941246351](https://github.com/user-attachments/assets/057908b2-3f13-4fc3-a7d9-b52bad42855e)
+
+![Eva_Capture1019659414](https://github.com/user-attachments/assets/4edf3884-6f69-4b2a-b916-f59ba9a4b743)
+
+<br/>
+<br/>
+
+### Voice Over IP
+
+![Eva_Capture2058767428](https://github.com/user-attachments/assets/ce3e08cc-66fb-4a1f-81e9-27929eca2274)
+
+<br/>
+<br/>
+
+### Telnet, port level security, and device level security
+
+![Eva_Capture461903323](https://github.com/user-attachments/assets/51dbdaba-14c9-4178-a2bd-37b787203fd7)
 
 <br>
+
+
 
 ## Functionality
 ____________________
